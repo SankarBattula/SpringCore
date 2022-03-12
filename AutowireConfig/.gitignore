@@ -1,0 +1,7 @@
+# Ignore target folder folder
+target
+
+# Ignore class path and project
+.classpath
+.project
+../.idea/*
