@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCore.iml" filepath="$PROJECT_DIR$/.idea/SpringCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-app/message-app.iml" filepath="$PROJECT_DIR$/message-app/message-app.iml" />
     </modules>
   </component>
 </project>
